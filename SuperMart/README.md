@@ -55,5 +55,5 @@ This dashboard provides a multi-dimensional analysis of profit data across vario
 **Shalini Kumari**  
 Data Analyst | Dashboard Designer  
 📍 Namkum, Jharkhand  
-💼 [LinkedIn or Portfolio link]  
-📧 [Email address]
+
+📧 shalinikumari37090@gmail.com
